@@ -1,7 +1,7 @@
 
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Login from './assets/auth/login'
+import Login from './assets/auth/Login'
 import Registration from './assets/auth/Registration'
 import Homepage from './assets/home/Homepage'
 import Createstudent from './assets/home/Createstudent'
